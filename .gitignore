@@ -36,3 +36,4 @@ yarn-error.*
 
 #API
 .env
+/doc
